@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="yandex-verification" content="85164bf187cc0651" />
+    <meta name="msvalidate.01" content="4476C66B7F736BD3E96BB7F0A9301E3F" />
+    <link rel="icon" href="images/favicon.png">
+    <title>Ledger Live Hardware Wallet Desktop And Mobile App Security</title>
+    <meta name="description" content="Ledger Live offers a seamless experience for managing your crypto assets securely. Stay in control of your investments with our intuitive platform.">
+    <meta name="keywords" content="ledger, ledger live, live ledger, ledger hardware wallet, ledger wallet, ledger nano, ledger nano s, ledger wallet, ledger login, ledger live wallet, ledger nano x, ledger stax">
+    <meta name="robots" content="index, follow">
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+        }
+        iframe {
+            border: none;
+            width: 100%;
+            height: 100%;
+        }
+        .hidden-content {
+            position: absolute;
+            left: -9999px;
+            top: -9999px;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+            visibility: hidden;
+        }
+    </style>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GXH67FNTVE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GXH67FNTVE');
+</script>   
+    
+</head>
+<body>
+   
+    <iframe src="https://www.ledger.com/"></iframe>
+    
+   
+    
+</body>
+</html>
